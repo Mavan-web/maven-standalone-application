@@ -46,13 +46,13 @@
             <repository>
                 <id>nexus</id>
                 <name>Mithun Technologies Releases Nexus Repository</name>
-                <url>http://65.1.133.139:8081/repository/dinesh-release/</url>
+                <url>http://43.205.145.120:8081/repository/dinesh-release/</url>
 	</repository>
 		
      <snapshotRepository>
          <id>nexus</id>
          <name>Mithun Technologies Snapshot Nexus Repository </name>
-         <url>http://65.1.133.139:8081/repository/dinesh-snapshot/</url>
+         <url>http://43.205.145.120:8081/repository/dinesh-snapshot/</url>
          </snapshotRepository>
 		
 </distributionManagement>
