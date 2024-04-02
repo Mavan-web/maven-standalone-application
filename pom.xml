@@ -53,7 +53,7 @@
          <id>nexus</id>
          <name>Mithun Technologies Snapshot Nexus Repository </name>
          <url>http://43.205.145.120:8081/repository/dinesh-snapshot/</url>
-         </snapshotRepository>
+    </snapshotRepository>
 		
 </distributionManagement>
 	<!-- Committing and updating changes through Maven, by using below mvn command. 
